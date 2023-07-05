@@ -2,6 +2,8 @@
  
 **Chhinvanchhai/Chhinvanchhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Sharing will make happyness. I will try to public for source code, it may be help the beinger.
+
 Here are some ideas to get you started:
 
 - 🔭 "The most interesting to is to learning something new, life is journeys for get something new and experience"
