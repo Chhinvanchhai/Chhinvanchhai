@@ -2,7 +2,7 @@
  
 **Chhinvanchhai/Chhinvanchhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Sharing will make happyness. I will try to public for source code, it may be help the beinger.
+Sharing will make happyness. I will try to public  source code, it may be help the beginer.
 
 Here are some ideas to get you started:
 
