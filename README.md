@@ -5,43 +5,6 @@
 
 ## Main projects
 
-### Home automation
-
-[<img src="https://github.com/nioc/vue-dom/raw/master/docs/icon.png" height="16"> Vue-dom](https://github.com/nioc/vue-dom)
-Web front end for the home automation software Jeedom.
-
-[<img src="https://raw.githubusercontent.com/nioc/jeedom-websocket/master/logo.png" height="16"> Jeedom Websocket](https://github.com/nioc/jeedom-websocket)
-Plugin to provide a client-server communication over websocket protocol.
-
-[<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Netatmo Node.JS API](https://github.com/nioc/netatmo-nodejs-api)
-Node.js wrapper for Netatmo API.
- 
-[<img src="https://simpleicons.org/icons/php.svg" height="16"> Netatmo collector](https://github.com/nioc/netatmo-collector)
-PHP script for requesting measures from Netatmo devices.
-
-[<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Synology SRM Node.JS API](https://github.com/nioc/synology-srm-nodejs-api)
-Node.js wrapper for Synology Router Manager (SRM) API.
-
-[<img src="https://simpleicons.org/icons/php.svg" height="16"> Synology SRM PHP API](https://github.com/nioc/synology-srm-php-api)
-PHP wrapper for Synology Router Manager (SRM) API.
-
-
-### XMPP
-
-[<img src="https://raw.githubusercontent.com/nioc/xmpp-web/master/public/img/icons/favicon-32x32.png" height="16"> XMPP Web](https://github.com/nioc/xmpp-web)
-Lightweight web chat client for XMPP server.
-
-[<img src="https://raw.githubusercontent.com/nioc/xmpp-web/master/public/img/icons/favicon-32x32.png" height="16"> XMPP Bot](https://github.com/nioc/xmpp-bot)
-A tiny little bot making the link between XMPP conversations and webhooks.
-
-
-### Media
-
-[<img src="https://raw.githubusercontent.com/nioc/web-music-player/master/display/files/favicon/favicon-32x32.png" height="16"> Web Music Player](https://github.com/nioc/web-music-player) **[unmaintained]**
-Play your own music on any device connected to the web (pc, smartphone, tablet, ...). It can work as a standalone application or in your smartphone browser.
-
-[<img src="https://github.com/nioc/tumblr-photo-browse/raw/master/app/src/main/ic_launcher-web.png" height="16"> Tumblr Photo Browse](https://github.com/nioc/tumblr-photo-browse) **[unmaintained]**
-Android application for browsing photos posted on Tumblr.
 
 
 ### Miscellaneous
