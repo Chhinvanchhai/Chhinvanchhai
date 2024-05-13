@@ -7,19 +7,6 @@
 
 
 
-### Miscellaneous
-
-[<img src="https://github.com/nioc/own-my-money/raw/master/docs/icon.png" height="16"> Own My Money](https://github.com/nioc/own-my-money)
-Stay on top of your banking from any web browser.
-
-
-## Registry & published packages
-
-[![NPM](https://img.shields.io/badge/npm-231f20.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~nioc)
-[![Packagist](https://img.shields.io/badge/packagist-F28D1A.svg?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/users/nioc)
-[![Docker Hub](https://img.shields.io/badge/docker%20hub-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nioc)
-
-
 ## Skills
 
 [![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
@@ -63,7 +50,3 @@ Stay on top of your banking from any web browser.
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
 
-### For fun...
-
-[![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)](#)
-[![Playstation](https://img.shields.io/badge/PS4-003791?style=for-the-badge&logo=playstation&logoColor=white)](#)
